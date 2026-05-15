@@ -38,5 +38,5 @@ employees_db/
 ## Запуск
 
 ```bash
-python -m employees_db
+python -m src.db
 ```
